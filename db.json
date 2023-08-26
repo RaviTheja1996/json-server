@@ -6,54 +6,54 @@
       "pwd": "Raviteja@7719"
     },
     {
-      "id": 2
+      "id": 2,
       "user": "john_doe",
-      "pwd": "P@ssw0rd!",
+      "pwd": "P@ssw0rd!"
     },
     {
-  "id": 3
+  "id": 3,
   "user": "emma-smith",
-  "pwd": "T1ger$tripe",
+  "pwd": "T1ger$tripe"
 },
     {
-  "id": 4
+  "id": 4,
   "user": "alex-1990",
-  "pwd": "B3@utiful",
+  "pwd": "B3@utiful"
 },
     {
-  "id": 5
+  "id": 5,
   "user": "lisa_88",
-  "pwd": "SunnyD@y1",
+  "pwd": "SunnyD@y1"
 },
     {
-  "id": 6
+  "id": 6,
   "user": "maximus123",
-  "pwd": "M0onlight%",
+  "pwd": "M0onlight%"
 },
     {
-  "id": 7
+  "id": 7,
   "user": "sara-rose",
-  "pwd": "G00dMorn!ng",
+  "pwd": "G00dMorn!ng"
 },
     {
-  "id": 8
+  "id": 8,
   "user": "sammy_5678",
-  "pwd": "F1r3w0rks#",
+  "pwd": "F1r3w0rks#"
 },
     {
-  "id": 9
+  "id": 9,
   "user": "jessie-g",
-  "pwd": "R@inb0w123",
+  "pwd": "R@inb0w123"
 },
     {
-  "id": 10
+  "id": 10,
   "user": "grace-88",
-  "pwd": "S!lver&Gold",
+  "pwd": "S!lver&Gold"
 }
     {
-  "id": 11
+  "id": 11,
   "user": "peter_2001",
-  "pwd": "L3tMeIn!",
+  "pwd": "L3tMeIn!"
 }
   ],
   "doctors": [
@@ -62,7 +62,7 @@
     "image": "xyz",
     "name": "ABC",
     "experience": 5,
-    "specialization": "EyeCare",
+    "specialization": "EyeCare"
     }
   ],
   "hospitals": [
@@ -70,7 +70,7 @@
       "id": 1,
       "name": "apollo",
       "address": "Secundrabad",
-      "fees": 500,
+      "fees": 500
     }
   ]
 }
