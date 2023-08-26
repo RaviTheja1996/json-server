@@ -5,5 +5,7 @@
       "email": "xyz@gmail.com",
       "password": "123"
     }
-  ]
+  ],
+  "doctors": [],
+  "hospitals": []
 }
