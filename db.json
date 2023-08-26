@@ -11,58 +11,58 @@
       "pwd": "P@ssw0rd!"
     },
     {
-  "id": 3,
-  "user": "emma-smith",
-  "pwd": "T1ger$tripe"
-},
+      "id": 3,
+      "user": "emma-smith",
+      "pwd": "T1ger$tripe"
+    },
     {
-  "id": 4,
-  "user": "alex-1990",
-  "pwd": "B3@utiful"
-},
+      "id": 4,
+      "user": "alex-1990",
+      "pwd": "B3@utiful"
+    },
     {
-  "id": 5,
-  "user": "lisa_88",
-  "pwd": "SunnyD@y1"
-},
+      "id": 5,
+      "user": "lisa_88",
+      "pwd": "SunnyD@y1"
+    },
     {
-  "id": 6,
-  "user": "maximus123",
-  "pwd": "M0onlight%"
-},
+      "id": 6,
+      "user": "maximus123",
+      "pwd": "M0onlight%"
+    },
     {
-  "id": 7,
-  "user": "sara-rose",
-  "pwd": "G00dMorn!ng"
-},
+      "id": 7,
+      "user": "sara-rose",
+      "pwd": "G00dMorn!ng"
+    },
     {
-  "id": 8,
-  "user": "sammy_5678",
-  "pwd": "F1r3w0rks#"
-},
+      "id": 8,
+      "user": "sammy_5678",
+      "pwd": "F1r3w0rks#"
+    },
     {
-  "id": 9,
-  "user": "jessie-g",
-  "pwd": "R@inb0w123"
-},
+      "id": 9,
+      "user": "jessie-g",
+      "pwd": "R@inb0w123"
+    },
     {
-  "id": 10,
-  "user": "grace-88",
-  "pwd": "S!lver&Gold"
-}
+      "id": 10,
+      "user": "grace-88",
+      "pwd": "S!lver&Gold"
+    },
     {
-  "id": 11,
-  "user": "peter_2001",
-  "pwd": "L3tMeIn!"
-}
+      "id": 11,
+      "user": "peter_2001",
+      "pwd": "L3tMeIn!"
+    }
   ],
   "doctors": [
     {
       "id": 1,
-    "image": "xyz",
-    "name": "ABC",
-    "experience": 5,
-    "specialization": "EyeCare"
+      "image": "xyz",
+      "name": "ABC",
+      "experience": 5,
+      "specialization": "EyeCare"
     }
   ],
   "hospitals": [
