@@ -59,10 +59,143 @@
   "doctors": [
     {
       "id": 1,
-      "image": "xyz",
-      "name": "ABC",
-      "experience": 5,
+      "image": "https://rb.gy/nwtwo",
+      "name": "Yousaf",
+      "experience": "4 years",
       "specialization": "EyeCare"
+    },
+    {
+      "id": 2,
+      "image": "https://rb.gy/nwtwo",
+      "name": "Sophia",
+      "experience": "3 years",
+      "specialization": "Dentistry"
+    },
+    {
+      "id": 3,
+      "image": "https://rb.gy/nwtwo",
+      "name": "Ethan",
+      "experience": "5 years",
+      "specialization": "Orthopedics"
+    },
+    {
+      "id": 4,
+      "image": "https://rb.gy/nwtwo",
+      "name": "Ava",
+      "experience": "2 years",
+      "specialization": "Pediatrics"
+    },
+    {
+      "id": 5,
+      "image": "https://rb.gy/nwtwo",
+      "name": "Noah",
+      "experience": "6 years",
+      "specialization": "Cardiology"
+    },
+    {
+      "id": 6,
+      "image": "https://rb.gy/nwtwo",
+      "name": "Olivia",
+      "experience": "4 years",
+      "specialization": "Dermatology"
+    },
+    {
+      "id": 7,
+      "image": "https://rb.gy/nwtwo",
+      "name": "Liam",
+      "experience": "3 years",
+      "specialization": "Neurology"
+    },
+    {
+      "id": 8,
+      "image": "https://rb.gy/nwtwo",
+      "name": "Emma",
+      "experience": "5 years",
+      "specialization": "Gastroenterology"
+    },
+    {
+      "id": 9,
+      "image": "https://rb.gy/nwtwo",
+      "name": "William",
+      "experience": "2 years",
+      "specialization": "ENT"
+    },
+    {
+      "id": 10,
+      "image": "https://rb.gy/nwtwo",
+      "name": "Isabella",
+      "experience": "6 years",
+      "specialization": "Ophthalmology"
+    },
+    {
+      "id": 11,
+      "image": "https://rb.gy/nwtwo",
+      "name": "James",
+      "experience": "4 years",
+      "specialization": "Urology"
+    },
+    {
+      "id": 12,
+      "image": "https://rb.gy/nwtwo",
+      "name": "Mia",
+      "experience": "3 years",
+      "specialization": "Endocrinology"
+    },
+    {
+      "id": 13,
+      "image": "https://rb.gy/nwtwo",
+      "name": "Benjamin",
+      "experience": "5 years",
+      "specialization": "Psychiatry"
+    },
+    {
+      "id": 14,
+      "image": "https://rb.gy/nwtwo",
+      "name": "Charlotte",
+      "experience": "2 years",
+      "specialization": "Rheumatology"
+    },
+    {
+      "id": 15,
+      "image": "https://rb.gy/nwtwo",
+      "name": "Elijah",
+      "experience": "6 years",
+      "specialization": "Hematology"
+    },
+    {
+      "id": 16,
+      "image": "https://rb.gy/nwtwo",
+      "name": "Amelia",
+      "experience": "4 years",
+      "specialization": "Oncology"
+    },
+    {
+      "id": 17,
+      "image": "https://rb.gy/nwtwo",
+      "name": "Lucas",
+      "experience": "3 years",
+      "specialization": "Pulmonology"
+    },
+    {
+      "id": 18,
+      "image": "https://rb.gy/nwtwo",
+      "name": "Harper",
+      "experience": "5 years",
+      "specialization": "Nephrology"
+    },
+    {
+      "id": 19,
+      "image": "https://rb.gy/nwtwo",
+      "name": "Alexander",
+      "experience": "2 years",
+      "specialization": "Allergy and Immunology"
+    },
+    {
+      "id": 20,
+      "image": "https://rb.gy/nwtwo",
+      "name": "Sofia",
+      "experience": "6 years",
+      "specialization": "Gynecology"
     }
   ],
   "hospitals": [
