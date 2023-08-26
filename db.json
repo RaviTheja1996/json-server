@@ -6,6 +6,21 @@
       "password": "123"
     }
   ],
-  "doctors": [],
-  "hospitals": []
+  "doctors": [
+    {
+      "id": 1,
+    "image": "xyz",
+    "name": "ABC",
+    "experience": 5,
+    "specialization": "EyeCare",
+    }
+  ],
+  "hospitals": [
+    {
+      "id": 1,
+      "name": "apollo",
+      "address": "Secundrabad",
+      "fees": 500,
+    }
+  ]
 }
